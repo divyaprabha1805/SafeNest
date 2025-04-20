@@ -6,7 +6,7 @@ SafeNest is a cost-effective home security solution built around an Arduino plat
 
 ## Set-up
 
-![Alt text](image.png)
+![Alt text](https://github.com/divyaprabha1805/SafeNest/blob/main/Image.png)
 
 ## Features
 
